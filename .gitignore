@@ -1,0 +1,4 @@
+authentication-service/bin/
+broker-service/bin/
+project/db-data
+assets/
