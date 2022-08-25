@@ -12,5 +12,8 @@
 		{
 			"path": "authentication-service"
 		}
-	]
+	],
+	"settings": {
+		"makefile.extensionOutputFolder": "./.vscode"
+	}
 }
